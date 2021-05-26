@@ -1,0 +1,2 @@
+The User is: krouac
+The Home for this user is: /home/krouac

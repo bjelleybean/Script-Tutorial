@@ -1,0 +1,11 @@
+total 164
+-rwxrw-r-- 1 krouac krouac    25 May 15 13:14 report.sh
+-rw-rw-r-- 1 krouac krouac  1172 May 15 13:56 Basic steps to write and execute a bash shell script.txt
+-rwxrwxr-x 1 krouac krouac    31 May 15 14:15 demo.sh
+-rw-rw-r-- 1 krouac krouac  1454 May 15 14:23 3. Steps to Configure Gmail on Ubuntu server to send mails.txt
+drwxrwxr-x 5 krouac krouac  4096 May 15 15:15 DockerTutorialsForBeginners
+-rw-rw-r-- 1 krouac krouac     0 May 15 15:40 demo.txt
+-rw-rw-r-- 1 krouac krouac   179 May 15 15:45 javaversion.txt
+-rw-rw-r-- 1 krouac krouac 61494 May 15 15:51 1.+Commands+to+read+a+file+content.pdf
+-rw-rw-r-- 1 krouac krouac 76553 May 15 15:52 2. Read a File Content with condition.pdf
+-rw-rw-r-- 1 krouac krouac     0 May 16 09:55 newdemo.txt

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #Author: Narendra
 #Version: 1.0
 COLUMNS=$(tput cols)
